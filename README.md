@@ -10,7 +10,7 @@ apt-get install signing-party
 
 Mac OSX with homebrew:
 ```shell
-brew install install gpg signing-party
+brew install gpg signing-party
 ```
 
 First make sure your folder has the correct permission and then run update.sh:
