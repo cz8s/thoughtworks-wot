@@ -11,6 +11,7 @@ apt-get install signing-party
 Mac OSX with homebrew:
 ```shell
 brew install gpg signing-party
+brew install graphviz
 ```
 
 First make sure your folder has the correct permission and then run update.sh:
